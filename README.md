@@ -1,2 +1,2 @@
 # hello-world
-Mah first repository
+Mah first repository to do code things
